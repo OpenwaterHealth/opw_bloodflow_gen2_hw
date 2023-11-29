@@ -1,7 +1,8 @@
 # opw_bloodflow_gen2_hw
 Openwater Blood Flow Gen 2 Hardware
 
-![system](https://github.com/OpenwaterInternet/opw_bloodflow_gen2_hw/assets/128628160/52894626-1c55-4b19-8d38-1bd1e8b74b6b)
+![system](https://github.com/OpenwaterInternet/opw_bloodflow_gen2_hw/assets/128628160/eda21643-f991-4cbd-9b0f-b8796700e434)
+
 
 # Openwater Generation 2 Blood Flow Device
 
