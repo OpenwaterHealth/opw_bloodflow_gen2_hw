@@ -1,5 +1,8 @@
 # opw_bloodflow_gen2_hw
 Openwater Blood Flow Gen 2 Hardware
+
+![system](https://github.com/OpenwaterInternet/opw_bloodflow_gen2_hw/assets/128628160/52894626-1c55-4b19-8d38-1bd1e8b74b6b)
+
 # Openwater Generation 2 Blood Flow Device
 
 The Openwater Blood Flow Device is a blood flow measurement system. 
