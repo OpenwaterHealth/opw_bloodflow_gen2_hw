@@ -31,7 +31,7 @@ Various assembly and test equipment items are needed to build the blood flow dev
 
 ### Usage
 
-See the [Openwater Blood Flow Gen 2 Software](link) repo for required software, and [Openwater Blood Flow Gen 2 Analysis](link) for data analysis tools. 
+See the [Openwater Blood Flow Gen 2 Software](link) repo for required software, (link) for User Manual, and [Openwater Blood Flow Gen 2 Analysis](link) for data analysis tools. 
 
 
 ## Contributing
