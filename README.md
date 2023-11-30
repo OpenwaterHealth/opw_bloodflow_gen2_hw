@@ -42,4 +42,4 @@ Before contributing, please read our Contributing Guidelines.
 
 ## License
 
-This project is licensed under the APL3 License - see the LICENSE file for details.
+This project is licensed under the AGPLv3 License - see the LICENSE file for details.
