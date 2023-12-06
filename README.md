@@ -3,17 +3,9 @@ Openwater Blood Flow Gen 2 Hardware
 
 ![system](https://github.com/OpenwaterInternet/opw_bloodflow_gen2_hw/assets/128628160/eda21643-f991-4cbd-9b0f-b8796700e434)
 
-
 # Openwater Generation 2 Blood Flow Device
 
-The Openwater Blood Flow Device is a blood flow measurement system. 
-
-## Features
-
-- Measure and display blood flow index and blood volume index
-- Three data collection modes - single scan, long scan, and continuous monitoring
-- Data retrieval via USB or SSH remote connection
-- Device console can be mounted to standard IV poles for clinical use
+Openwater Gen 2 Blood Flow System hardware designs are detailed in this repository. 
 
 ## Table of Contents
 
@@ -25,14 +17,29 @@ The Openwater Blood Flow Device is a blood flow measurement system.
 
 ## Getting Started
 
+Before getting started with the design data included in this repo, you may want to visit the Gen 2 Blood Flow Hardware Wiki for some background information on the system and its design. You may also want to review the See the [Openwater Blood Flow Gen 2 Software](link) and [Openwater Blood Flow Gen 2 Analysis](link) repos for additional information about the system and its operation. 
+
 ### Prerequisites
 
-Various assembly and test equipment items are needed to build the blood flow device. See [Manufacturing](#manufacturing) for detail.
+Required software will depend on the type of data desired by the user. In general, we have tried to include generic formats, viewable with free tools, wherever possible. Data in proprietary formats such as SolidWorks and Altium native are provided for the convenience of users with access to those tools.  
 
-### Usage
+Several file types commonly used include
+- STEP assembly files and SolidWorks native files for mechanical assemblies
+- PDFs of assembly and component drawings, electrical schematics, datasheets, and documentation
+- Gerber files for printed circuit designs
+- Altium design files for circuit designs and layouts
+- DXF and STL files for individual mechanical components
 
-See the [Openwater Blood Flow Gen 2 Software](link) repo for required software, (link) for User Manual, and [Openwater Blood Flow Gen 2 Analysis](link) for data analysis tools. 
+### Repository Contents
+[Mechanical design files](mechanical), which include
+- [Key subsystems](mechanical/major subsystems)
+- Additional design files for various components and subassemblies in various formats ([PDF](mechanical/pdf), [STL](mechanical/stl), [DXF](mechanical/dxf)
 
+[Electrical design files](electrical), which includes printed circuit board assemblies and harnessing
+
+[System design](system design) files which include high-level documents describing the design of the blood flow system
+
+[Assembly and Test](assembly and test) which includes various documents detailing contruction of various device subsystems
 
 ## Contributing
 
