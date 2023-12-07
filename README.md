@@ -47,4 +47,4 @@ Before contributing, please read our [Contributing Guidelines](CONTRIBUTING.md).
 
 ## License
 
-This project is licensed under the AGPLv3 License - see the [license](LICENSE.md) file for details.
+This project is licensed under the AGPLv3 License - see the [License](LICENSE.md) file for details.
