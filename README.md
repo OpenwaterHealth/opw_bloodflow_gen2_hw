@@ -33,7 +33,7 @@ Several file types commonly used include
 ### Repository Contents
 [Mechanical design files](mechanical), which include
 - [Major subsystems](mechanical/major_subsystems)
-- Additional design files for various components and subassemblies in various formats ([PDF](mechanical/pdf), [STL](mechanical/stl), [DXF](mechanical/dxf)
+- Additional design files for various components and subassemblies in various formats ([PDF](mechanical/pdf), [STL](mechanical/stl), [DXF](mechanical/dxf))
 
 [Electrical design files](electrical), which includes printed circuit board assemblies and harnessing
 
