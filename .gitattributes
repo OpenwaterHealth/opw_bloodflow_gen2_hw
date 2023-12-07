@@ -9,3 +9,4 @@ mechanical/major_subs/console_assembly/7000-0246.zip filter=lfs diff=lfs merge=l
 mechanical/major_subs/console_housing/7000-0145.zip filter=lfs diff=lfs merge=lfs -text
 mechanical/major_subs/headset/7000-0235.zip filter=lfs diff=lfs merge=lfs -text
 mechanical/major_subs/headset/7000-0248.zip filter=lfs diff=lfs merge=lfs -text
+mechanical/major_subs/source_module/7000-0242.zip filter=lfs diff=lfs merge=lfs -text
