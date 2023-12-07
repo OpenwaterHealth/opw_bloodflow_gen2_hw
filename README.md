@@ -3,8 +3,6 @@ Openwater Blood Flow Gen 2 Hardware
 
 ![system](https://github.com/OpenwaterInternet/opw_bloodflow_gen2_hw/assets/128628160/eda21643-f991-4cbd-9b0f-b8796700e434)
 
-# Openwater Generation 2 Blood Flow Device
-
 Openwater Gen 2 Blood Flow System hardware designs are detailed in this repository. 
 
 ## Table of Contents
