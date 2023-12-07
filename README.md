@@ -32,14 +32,14 @@ Several file types commonly used include
 
 ### Repository Contents
 [Mechanical design files](mechanical), which include
-- [Key subsystems](mechanical/major subsystems)
+- [Major subsystems](mechanical/major_subsystems)
 - Additional design files for various components and subassemblies in various formats ([PDF](mechanical/pdf), [STL](mechanical/stl), [DXF](mechanical/dxf)
 
 [Electrical design files](electrical), which includes printed circuit board assemblies and harnessing
 
-[System design](system design) files which include high-level documents describing the design of the blood flow system
+[System design](system_design) files which include high-level documents describing the design of the blood flow system
 
-[Assembly and Test](assembly and test) which includes various documents detailing contruction of various device subsystems
+[Assembly and Test](assembly_and_test) which includes various documents detailing contruction of various device subsystems
 
 ## Contributing
 
